@@ -20,13 +20,11 @@ This project is a **responsive recipe website** built with a **mobile-first appr
 
 Designed with both **usability** and **responsiveness** in mind, this application is optimized for mobile and scales smoothly to larger screens.
 
----
 
 ## Live Demo
 
 
 
----
 
 ##  Key Features
 
@@ -41,19 +39,17 @@ Designed with both **usability** and **responsiveness** in mind, this applicatio
   - Top 5 ingredients
   - YouTube link for cooking video
 
-- **Clean, Accessible UI**  
-  Minimalistic layout with clear typographic hierarchy and intuitive structure.
+- **Concise and Accessible UI**  
+  Minimalist layout with clear typographic hierarchy and intuitive structure.
 
----
 
 ## Technologies Used
 
 - **HTML5** – Semantic markup
-- **CSS3** – Responsive layout using Grid and media queries
+- **CSS** – Responsive layout using Grid and media queries
 - **JavaScript (ES6+)** – API fetch and DOM rendering
 - **[TheMealDB API](https://www.themealdb.com/api.php)** – JSON meal data source
 
----
 
 ##  How to Run the Project
 
@@ -61,17 +57,18 @@ Designed with both **usability** and **responsiveness** in mind, this applicatio
    ```bash
    git clone https://github.com/your-username/recipe-website.git
    cd recipe-website
+
 ## Folder Structure
 
 /recipe-website/
-├── index.html        
-├── styles.css        
-├── main.js           
-└── README.md  
+- index.html        
+- styles.css        
+- main.js           
+- README.md  
 ## Author
 Tolulope McSmith
 Email: tolulope.mcsmith@gmail.com
-GitHub: https://github.com/EHIS03042
+GitHub Profile: https://github.com/EHIS03042
 
 ## License
 This project is licensed under the MIT License. You are free to use, copy, modify, merge, publish, and distribute this software for both personal and commercial purposes, provided that the original license and attribution are retained.       
