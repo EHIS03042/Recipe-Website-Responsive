@@ -44,7 +44,7 @@ Designed with both **usability** and **responsiveness** in mind, this applicatio
 
 - **HTML5** – Semantic markup
 - **CSS** – Responsive layout using Grid and media queries
-- **JavaScript (ES6+)** – API fetch and DOM rendering
+- **JavaScript (ES6+)** – Using the Document Object Model(DOM) and Fetch API
 - **[TheMealDB API](https://www.themealdb.com/api.php)** – JSON meal data source
 
 
@@ -64,7 +64,7 @@ Designed with both **usability** and **responsiveness** in mind, this applicatio
 - README.md  
 
 ## Presentation link
-[[Presentation Link]]()
+[[Presentation Link]](https://www.loom.com/share/a8bcde13f7fd4f7baafd9de315d16642?sid=1ed20290-7958-4fc7-ae0f-6a8ca3cf46fd)
 
 
 ## Author
